@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eudextictactoe.github.io/build/static/css/main.c996f265.css",
+    "main.js": "/eudextictactoe.github.io/build/static/js/main.ab5a67b7.js",
+    "index.html": "/eudextictactoe.github.io/build/index.html",
+    "main.c996f265.css.map": "/eudextictactoe.github.io/build/static/css/main.c996f265.css.map",
+    "main.ab5a67b7.js.map": "/eudextictactoe.github.io/build/static/js/main.ab5a67b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c996f265.css",
+    "static/js/main.ab5a67b7.js"
+  ]
+}
